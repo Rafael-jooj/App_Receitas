@@ -3,7 +3,7 @@
 ![Badge Concluido](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
 
 ## Descrição do Projeto
-<p>Esse projeto se trata da criação de um aplicativo android de de receitas consumindo uma consumindo a API fake por meio da biblioteca json-server simulando uma API Rest.</p>
+<p>Esse projeto se trata da criação de um aplicativo android de de receitas consumindo uma API fake por meio da biblioteca json-server simulando uma API Rest.</p>
 <p>O App conta com sistema de busca, sistema de compartilhamento das receitas e sistema de favoritar e desfavoritar as receitas do usuário</p>
 
 ## Dentre as bibliotecas utilizadas estão:
